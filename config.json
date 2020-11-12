@@ -1,16 +1,16 @@
 {
-    "email": "email@email.com",
-    "password": "password1",
+    "email": "kohltonn@icloud.com",
+    "password": "Kohlton1",
     "cid": "CID_028_Athena_Commando_F",
     "bid": "BID_023_Pinkbear",
     "eid": "EID_HotPink",
     "pickaxe_id": "Pickaxe_Lockjaw",
-    "banner": "otherbanner28",
-    "banner_colour": "defaultcolor15",
-    "level": 999,
+    "banner": "otherbanner1",
+    "banner_colour": "defaultcolor1",
+    "level"46,
     "bp_tier": 999999999,
     "status": "discord.gg/fnpy",
-    "platform": "WIN",
+    "platform": "XBL",
     "debug": false,
     "friend_accept": true
 }
