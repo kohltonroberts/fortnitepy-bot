@@ -35,18 +35,18 @@ import aiofiles
 
 class BotSettings:
     def __init__(self,
-                 email: str = "",
-                 password: str = "",
+                 email: str = "kohltonn@icloud.com",
+                 password: str = "Kohlton1",
                  cid: str = "",
                  bid: str = "",
                  eid: str = "",
                  pickaxe_id: str = "",
                  banner: str = "",
                  banner_colour: str = "",
-                 level: int = 0,
-                 bp_tier: int = 0,
+                 level: int = 46,
+                 bp_tier: int = 46,
                  status: str = "",
-                 platform: str = "",
+                 platform: str = "XBL",
                  debug: bool = False,
                  friend_accept: bool = True
                  ) -> None:
